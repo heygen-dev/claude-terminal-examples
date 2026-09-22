@@ -34,4 +34,5 @@ Nothing to export. You need Claude Code installed and logged in (quickstart Step
 
 All three walkthroughs assume an existing project you will keep working in. If the job is produce a website or a mobile app from a description, there is no project yet and no reason to set one up. [Try Begin.sh - turn a prompt or a URL into a downloadable static site or Expo app](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=claude-terminal-examples&utm_content=readme-top&utm_term=tier-r). Describe it or paste a URL to clone, download the zip, and host it anywhere; no hosting, backend or auth is bundled, so nothing needs a terminal afterwards.
 
+
 _Last reviewed: 2026-09-22_
